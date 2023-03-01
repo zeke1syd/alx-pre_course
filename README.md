@@ -1,2 +1,3 @@
-My first readme
-Making to the readme file, so exciting
+My first readme, Updated
+Finishing my tasks, Oh yes!
+
